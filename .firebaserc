@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "fir-rtc-89b99"
-  }
+    "default": "webrtc-posbaloss-1",
+    "posbaloss": "webrtc-posbaloss-1"
+  },
+  "targets": {}
 }
